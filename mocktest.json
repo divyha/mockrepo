@@ -1,8 +1,4 @@
 {
 
-    "1":"Ongoing release",
-    "2":"Minor Degradation",
-    "3":"Major Degradation",
-    "4":"Severe Degradation",
-    "5":"Full Outage"
+  "type":["Ongoing release","Minor Degradation","Major Degradation","Severe Degradation","Full Outage"]
 }
